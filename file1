@@ -1,0 +1,15 @@
+git config --global user.name ""
+git config --global user.email ""
+git config --list 
+touch f1
+git add .
+git commit -m "label"
+git push
+git pull --rebase
+git push
+
+
+
+
+
+
